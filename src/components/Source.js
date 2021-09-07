@@ -20,7 +20,7 @@ const Source = () => {
   return (
     <Container>
       <A
-        href="https://github.com/Maza-Alain/Vangstore"
+        href="https://github.com/Maza-Alain/Vangstore/tree/master"
         target="_blank"
         rel="noreferrer"
       >
