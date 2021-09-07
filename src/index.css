@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* -----------------products-------------- */
+.one{
+  background-color: #FFCD3F;
+}
+.two{
+  background-color: #345794;
+}
+.tree{
+  background-color: #DFE091;
+}
+/* -----------------header-------------- */
+.headCont{
+  background-color: #20202e;
+  width: 95%;
+  margin: 1rem auto;
+  position: relative;
+  z-index: 1;
+  border-radius: 20px;
+}
+.headFixed{
+  background-color: #20202e;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+.srcSvg1{
+  fill: azure;
+  width: 80%;
+  height: 80%;
+  opacity: .5;
+}

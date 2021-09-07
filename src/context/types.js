@@ -1,0 +1,11 @@
+export const  ADD_PRODUCT = 'ADD_PRODUCT';
+export const  TO_CAR = 'TO_CAR';
+export const  TO_FAVORITES = 'TO_FAVORITES';
+export const  CHANGE_CAR = 'CHANGE_CAR';
+export const  SHOW_DISPLAY = 'SHOW_DISPLAY';
+export const  SELECT_AMOUNT = 'SELECT_AMOUNT';
+export const  MANAGE_TOTAL = 'MANAGE_TOTAL';
+export const  DELETE_FROMCAR = 'DELETE_FROMCAR';
+export const  CHANGE_FAVS = 'CHANGE_FAVS';
+export const  DEL_FAVS = 'DEL_FAVS';
+export const  SHOW_MODAL = 'SHOW_MODAL';
